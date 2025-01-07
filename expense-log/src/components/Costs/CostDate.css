@@ -1,0 +1,23 @@
+.cost-date {
+    display: flex;
+    flex-direction: column;
+
+}
+.weekday {
+    margin-left: 10px;
+    font-style: italic;
+
+    color: chartreuse;
+}
+
+.control {
+    display: flex;
+    flex-direction: column;
+    width: 80px;
+    margin-top: 10px;
+    padding: 7px;
+    gap: 5px;
+    border: 2px solid green;
+    border-radius: 10px;
+    font-weight: bold ;
+}
